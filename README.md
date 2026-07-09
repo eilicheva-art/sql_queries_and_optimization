@@ -27,3 +27,9 @@
 - `segments` – сегменты перелётов (цена, класс)
 - `tickets` – билеты (пассажир, направление)
 - `timetable` – представление с локальным временем вылета
+
+## 📘 Используемые источники
+
+- Документация PostgreSql https://postgrespro.ru/docs/postgresql/18/index
+- Курс по оптимизции запросов https://postgrespro.ru/education/courses/QPT
+- Книга "Оптимизация запросов в PostgreSQL" Домбровская Г., Новиков Б., Бейликова А.
